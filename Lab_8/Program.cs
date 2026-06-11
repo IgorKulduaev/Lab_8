@@ -1,4 +1,5 @@
-﻿Stack<int> stack = new Stack<int>();
+//Базовый Уровень
+Stack<int> stack = new Stack<int>();
 int n = new Random().Next(10, 20);
 for (int i = 0; i < n; i++)
 {
