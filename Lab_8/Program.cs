@@ -1,13 +1,26 @@
-//Базовый Уровень
-Stack<int> stack = new Stack<int>();
-int n = new Random().Next(10, 20);
+//Базовый Уровень Вариант 2
+using System.Collections.Generic;
+
+Queue<double> queue = new Queue<double>();
+Random rng = new Random();
+int n = rng.Next(5, 15); 
 for (int i = 0; i < n; i++)
 {
-    stack.Push(new Random().Next(10, 100));
+    double value = Math.Round(rng.NextDouble() * 100 - 50, 2);
+    queue.Enqueue(value);
 }
-
-foreach (int i in stack) Console.Write(i + " ");
+Console.WriteLine("Элементы очереди:");
+foreach (double item in queue)
+{
+    Console.Write(item + " ");
+}
 Console.WriteLine();
-double s = 0;
-foreach (int i in stack) if (i % 2 == 0) s += i;
-Console.WriteLine($"Avg={(s / stack.Count):F2}");
+int positiveCount = 0;
+foreach (double item in queue)
+{
+    if (item > 0)
+    {
+        positiveCount++;
+    }
+}
+Console.WriteLine($"Кол-во положительных элементов: {positiveCount}");
