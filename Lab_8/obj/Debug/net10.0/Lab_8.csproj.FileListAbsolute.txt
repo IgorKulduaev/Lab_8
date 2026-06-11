@@ -1,0 +1,14 @@
+C:\Users\kulduaev\source\repos\Lab_8\Lab_8\bin\Debug\net10.0\Lab_8.exe
+C:\Users\kulduaev\source\repos\Lab_8\Lab_8\bin\Debug\net10.0\Lab_8.deps.json
+C:\Users\kulduaev\source\repos\Lab_8\Lab_8\bin\Debug\net10.0\Lab_8.runtimeconfig.json
+C:\Users\kulduaev\source\repos\Lab_8\Lab_8\bin\Debug\net10.0\Lab_8.dll
+C:\Users\kulduaev\source\repos\Lab_8\Lab_8\bin\Debug\net10.0\Lab_8.pdb
+C:\Users\kulduaev\source\repos\Lab_8\Lab_8\obj\Debug\net10.0\Lab_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulduaev\source\repos\Lab_8\Lab_8\obj\Debug\net10.0\Lab_8.AssemblyInfoInputs.cache
+C:\Users\kulduaev\source\repos\Lab_8\Lab_8\obj\Debug\net10.0\Lab_8.AssemblyInfo.cs
+C:\Users\kulduaev\source\repos\Lab_8\Lab_8\obj\Debug\net10.0\Lab_8.csproj.CoreCompileInputs.cache
+C:\Users\kulduaev\source\repos\Lab_8\Lab_8\obj\Debug\net10.0\Lab_8.dll
+C:\Users\kulduaev\source\repos\Lab_8\Lab_8\obj\Debug\net10.0\refint\Lab_8.dll
+C:\Users\kulduaev\source\repos\Lab_8\Lab_8\obj\Debug\net10.0\Lab_8.pdb
+C:\Users\kulduaev\source\repos\Lab_8\Lab_8\obj\Debug\net10.0\Lab_8.genruntimeconfig.cache
+C:\Users\kulduaev\source\repos\Lab_8\Lab_8\obj\Debug\net10.0\ref\Lab_8.dll
